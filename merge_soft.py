@@ -26,7 +26,7 @@ def add_soft_subtitles(video_path, srt_path, output_path):
 
 if __name__ == "__main__":
 
-    video_file = "test_video.mp4" 
+    video_file = "input_video.mp4" 
     srt_file = "subtitles.srt"
     output_file = "final_output.mkv"
 

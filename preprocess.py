@@ -27,7 +27,7 @@ def extract_audio(video_path, audio_output_path):
 # --- TEST AREA ---
 if __name__ == "__main__":
 
-    input_video = "test_video.mp4" 
+    input_video = "input_video.mp4" 
     
     output_audio = "extracted_audio.wav"
 
