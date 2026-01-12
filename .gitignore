@@ -1,0 +1,17 @@
+# 1. Ignore the Virtual Environment (Heavy)
+env/
+__pycache__/
+
+# 2. Ignore the AI Models (Heavy)
+*.pt
+*.bin
+
+# 3. Ignore the Media Files (Heavy/Private)
+*.mp4
+*.mkv
+*.wav
+*.mp3
+
+# 4. Ignore the Output Files
+*.srt
+*.json
